@@ -1,4 +1,3 @@
-import React from 'react'
 import { SelectedPage } from '@/shared/types'
 import ActionButton from '@/shared/ActionButton'
 import HomePageText from '@/assets/HomePageText.png'

@@ -1,11 +1,9 @@
 import { SelectedPage, BenefitType } from '@/shared/types'
-import React from 'react'
 import { 
     HomeModernIcon,
     UserGroupIcon,
     AcademicCapIcon,
 } from '@heroicons/react/24/solid'
-import { section } from 'framer-motion/client'
 import { motion } from 'framer-motion'
 import HText from '@/shared/HText'
 import Benefit from './Benefit'

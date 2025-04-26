@@ -1,6 +1,3 @@
-import React from 'react'
-
-
 const Links = () => {
   return (
     <div className='mt-16 basis-1/4 md:mt-0'>

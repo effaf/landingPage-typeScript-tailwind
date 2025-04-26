@@ -1,9 +1,6 @@
-import React from 'react'
 import Logo from '@/assets/Logo.png'
 
-type Props = {}
-
-function FooterInfo(props: Props) {
+function FooterInfo() {
   return (
     <div>
         <div className='mt-16 basis-1/2 md:mt-0'>
